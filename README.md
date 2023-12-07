@@ -1,6 +1,6 @@
 ## 👋🏼 Hi, I'm Arsh!
 
-- 📍 Houston, Texas
+- 📍 Austin, Texas
 - 🎓 Computational Engineering @ UT Austin (BS)
 - 🌐 [arshdauwa.com](https://arshdauwa.com)
 - ✉️ [arshdauwa04@gmail.com](mailto:arshdauwa04@gmail.com)
